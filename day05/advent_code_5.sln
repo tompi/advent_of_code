@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advent_code_5", "advent_code_5\advent_code_5.csproj", "{DAF3F7FD-A3F0-437E-B829-3D50BB4C910B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF3F7FD-A3F0-437E-B829-3D50BB4C910B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF3F7FD-A3F0-437E-B829-3D50BB4C910B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF3F7FD-A3F0-437E-B829-3D50BB4C910B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF3F7FD-A3F0-437E-B829-3D50BB4C910B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
